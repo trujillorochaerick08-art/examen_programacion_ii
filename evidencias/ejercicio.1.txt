@@ -1,0 +1,17 @@
+Ingrese las horas estacionadas: 3
+Horas estacionadas: 3
+RECIBO DE ESTACIONAMIENTO
+Horas: 3
+Total a pagar: $36.00
+
+Ingrese las horas estacionadas: 5
+Horas estacionadas: 5
+RECIBO DE ESTACIONAMIENTO
+Horas: 5
+Total a pagar: $60.00
+
+Ingrese las horas estacionadas: 4
+Horas estacionadas: 4
+RECIBO DE ESTACIONAMIENTO
+Horas: 4
+Total a pagar: $48.00
